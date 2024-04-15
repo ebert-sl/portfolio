@@ -1,0 +1,75 @@
+{
+  "name": "Ébert Ian",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Estudante de Análise e Desenvolvimento de Sistemas",
+  "location": "Teresina - PI",
+  "email": "ebertis2002@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "TODO"
+      },
+      {
+        "name": "CSS",
+        "logo": "TODO"
+      },
+      {
+        "name": "JS",
+        "logo": "TODO"
+      },
+      {
+        "name": "Node.js",
+        "logo": "TODO"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "TODO"
+      },
+      {
+        "name": "Python",
+        "logo": "TODO"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "TODO"
+      }
+    ],
+    "softSkills": [
+      "Atenção aos detalhes",
+      "Empatia",
+      "Flexibilidade",
+      "Liderança",
+      "Organização",
+      "Trabalho em equipe"
+    ]
+  },
+  "languages": [
+    "Português Brasileiro - Nativo",
+    "Inglês - Intermediário"
+  ],
+  "portfolio": [
+    {
+      "name": "Projetos da DIO (HTML/CSS)",
+      "url": "https://github.com/ebert-sl/dio_htmlcss_projects",
+      "github": true
+    },
+    {
+      "name": "Pokédex com PokéAPI",
+      "url": "https://github.com/ebert-sl/pokedex",
+      "github": true
+    },
+    {
+      "name": "Jogo da Velha em Python",
+      "url": "https://github.com/ebert-sl/tic-tac-toe",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "TODO",
+      "period": "TODO",
+      "description": "TODO"
+    }
+  ]
+}

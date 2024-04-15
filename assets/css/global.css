@@ -1,0 +1,61 @@
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.6rem;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.container {
+  margin: 2rem;
+  padding: 1rem;
+  border: 2px solid white;
+  border-radius: 3rem;
+}
+
+.container::before {
+  content: "";
+  display: inline-block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background-image: url("../images/background.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.container::after {
+  content: "";
+  display: inline-block;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+  rotate: 180deg;
+  z-index: -1;
+  background-image: url("../images/background.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 750px;
+    margin: 2rem auto;
+  }
+}
