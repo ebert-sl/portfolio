@@ -8,3 +8,5 @@ Seções:
 - Habilidades
 - Educação
 - Portfólio
+
+Deploy: https://ebert-sl.github.io/portfolio/
