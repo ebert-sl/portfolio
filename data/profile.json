@@ -50,6 +50,11 @@
   },
   "education": [
     {
+      "name": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      "local": "IFPI",
+      "date": "Fevereiro/2020 - Dezembro/2025 (previsão)"
+    },
+    {
       "name": "Fundamentos de Python 1",
       "url": "https://www.credly.com/badges/9f816b0e-669d-4963-ac2c-cb710ac14425/public_url",
       "local": "Cisco",
