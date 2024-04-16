@@ -162,6 +162,29 @@ header::after {
   background-image: url("../images/icons/check.svg");
 }
 
+.education {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.education li {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.education .certificate {
+  font-weight: 700;
+}
+
+.education .local-date {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
 .portfolio {
   display: flex;
   flex-direction: column;
@@ -180,7 +203,7 @@ header::after {
   font-weight: 700;
 }
 
-.portfolio .project-title::before {
+.portfolio .project-title.github::before {
   content: "";
   display: inline-block;
   width: 1.3rem;

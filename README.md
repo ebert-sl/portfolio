@@ -6,6 +6,5 @@ Seções:
 - Introdução
 - Idiomas
 - Habilidades
-- Educação (em desenvolvimento)
-- Experiências Profissionais (em desenvolvimento)
+- Educação
 - Portfólio

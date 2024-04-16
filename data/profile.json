@@ -4,6 +4,10 @@
   "job": "Estudante de Análise e Desenvolvimento de Sistemas",
   "location": "Teresina - PI",
   "email": "ebertis2002@gmail.com",
+  "languages": [
+    "Português Brasileiro - Nativo",
+    "Inglês - Intermediário"
+  ],
   "skills": {
     "hardSkills": [
       {
@@ -44,9 +48,31 @@
       "Trabalho em equipe"
     ]
   },
-  "languages": [
-    "Português Brasileiro - Nativo",
-    "Inglês - Intermediário"
+  "education": [
+    {
+      "name": "Fundamentos de Python 1",
+      "url": "https://www.credly.com/badges/9f816b0e-669d-4963-ac2c-cb710ac14425/public_url",
+      "local": "Cisco",
+      "date": "Maio/2023"
+    },
+    {
+      "name": "Formação HTML Web Developer",
+      "url": "https://www.dio.me/certificate/A2FA1B2C/share",
+      "local": "DIO",
+      "date": "Julho/2023"
+    },
+    {
+      "name": "Santander Bootcamp 2023 - Ciência de Dados com Python",
+      "url": "https://www.dio.me/certificate/A15B0D96/share",
+      "local": "DIO",
+      "date": "Outubro/2023"
+    },
+    {
+      "name": "Formação CSS Web Developer",
+      "url": "https://www.dio.me/certificate/87FGYMQJ/share",
+      "local": "DIO",
+      "date": "Março/2024"
+    }
   ],
   "portfolio": [
     {
