@@ -60,15 +60,15 @@ header::after {
   background-repeat: no-repeat;
 }
 
-.informations p#job::before {
+.informations p.job::before {
   background-image: url("../images/icons/job.svg");
 }
 
-.informations p#local::before {
+.informations p.local::before {
   background-image: url("../images/icons/local.svg");
 }
 
-.informations p#email::before {
+.informations p.email::before {
   background-image: url("../images/icons/email.svg");
 }
 

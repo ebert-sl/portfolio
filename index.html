@@ -19,13 +19,15 @@
 <body>
   <div class="container">
     <header>
-      <img src="assets/images/profile2024.jpg" alt="Foto de Ébert Ian" class="photo">
-      <h1 class="title">Olá,<br> eu sou Ébert Ian!</h1>
+      <img src="assets/images/profile2024.jpg" alt="Foto de Perfil" id="profile-photo" class="photo">
+      <h1 class="title">
+        Olá,<br> eu sou <span id="profile-name">Carregando...</span>!
+      </h1>
       <div class="informations">
-        <p id="job">Estudante de Análise e Desenvolvimento de Sistemas</p>
-        <p id="local">Teresina - PI</p>
-        <p id="email">
-          <a href="mailto:ebertis2002@gmail.com">ebertis2002@gmail.com</a>
+        <p id="profile-job" class="job">Carregando...</p>
+        <p id="profile-local" class="local">Carregando...</p>
+        <p class="email">
+          <a id="profile-email" href="mailto:ebertis2002@gmail.com">Carregando...</a>
         </p>
       </div>
     </header>
@@ -115,6 +117,8 @@
     </section>
   </div>
   <script src="./assets/js/accordion.js"></script>
+  <script src="./assets/js/api.js"></script>
+  <script src="./assets/js/main.js"></script>
 </body>
 
 </html>
