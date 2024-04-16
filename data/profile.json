@@ -8,31 +8,31 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/ebert-sl/portfolio/main/assets/images/icons/tools/html.svg"
       },
       {
         "name": "CSS",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/ebert-sl/portfolio/main/assets/images/icons/tools/css.svg"
       },
       {
         "name": "JS",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/ebert-sl/portfolio/main/assets/images/icons/tools/js.svg"
       },
       {
         "name": "Node.js",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/ebert-sl/portfolio/main/assets/images/icons/tools/node.svg"
       },
       {
         "name": "TypeScript",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/ebert-sl/portfolio/main/assets/images/icons/tools/typescript.svg"
       },
       {
         "name": "Python",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/ebert-sl/portfolio/main/assets/images/icons/tools/python.svg"
       },
       {
         "name": "PostgreSQL",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/ebert-sl/portfolio/main/assets/images/icons/tools/postgresql.svg"
       }
     ],
     "softSkills": [
