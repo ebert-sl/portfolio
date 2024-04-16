@@ -39,7 +39,7 @@ function updateEducation(profileData) {
   `<li>
     <h3>
       <a class="certificate" 
-      href="${formation.url} target="_blank">
+      href="${formation.url}" target="_blank">
         ${formation.name}</a>
     </h3>
     <p class="local-date">${formation.local} - ${formation.date}</p>
