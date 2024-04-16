@@ -89,6 +89,16 @@
       "name": "Jogo da Velha em Python",
       "url": "https://github.com/ebert-sl/tic-tac-toe",
       "github": true
+    },
+    {
+      "name": "Buscador",
+      "url": "https://github.com/ebert-sl/pi1_buscador",
+      "github": true
+    },
+    {
+      "name": "Visualização e Análise de Dados com Power BI",
+      "url": "https://github.com/ebert-sl/dio_powerbi",
+      "github": true
     }
   ],
   "professionalExperience": [
