@@ -274,10 +274,4 @@ footer img {
     grid-area: informations;
     align-items: flex-start;
   }
-
-  .skills {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    column-gap: 5rem;
-  }
 }
