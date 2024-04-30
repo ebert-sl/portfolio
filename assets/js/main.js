@@ -56,7 +56,6 @@ function updatePortfolio(profileData) {
   const profileData = await fetchProfileData()
   updateProfileData(profileData)
   updateLanguages(profileData)
-  updateSoftSkills(profileData)
   updateHardSkills(profileData)
   updateEducation(profileData)
   updatePortfolio(profileData)
