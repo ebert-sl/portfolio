@@ -22,11 +22,6 @@ function updateLanguages(profileData) {
   languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join("")
 }
 
-function updateSoftSkills(profileData) {
-  const softSkills = document.getElementById("soft-skills")
-  softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join("")
-}
-
 function updateHardSkills(profileData) {
   const hardSkills = document.getElementById("hard-skills")
   hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => 

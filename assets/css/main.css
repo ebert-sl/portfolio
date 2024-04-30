@@ -235,14 +235,6 @@ header::after {
   list-style: none;
 }
 
-.skills .personal ul {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 3rem;
-  padding-left: 2rem;
-}
-
 .skills .tools ul img {
   width: 3rem;
 }
